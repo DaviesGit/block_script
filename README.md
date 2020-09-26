@@ -89,7 +89,7 @@ git clone https://github.com/path/to/the/repository
 
 2. 在chrome地址栏中输入[chrome://extensions/](chrome://extensions/)
 3. 打开开发者模式
-4. 将该repository文件夹拖入当当前页面，完成安装。
+4. 将该repository文件夹拖入当当前页面，完成安装
 
 
 
