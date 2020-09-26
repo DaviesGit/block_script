@@ -87,9 +87,14 @@ block_script是一个chrome的插件，可以去除当前页面加载的所有js
 git clone https://github.com/path/to/the/repository
 ```
 
+2. 在chrome地址栏中输入[chrome://extensions/](chrome://extensions/)
+3. 打开开发者模式
+4. 将该repository文件夹拖入当当前页面，完成安装。
+
 
 
 <!-- USAGE EXAMPLES -->
+
 ## Usage
 
 1. 初始化
