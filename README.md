@@ -97,10 +97,9 @@ git clone https://github.com/path/to/the/repository
 
 ## Usage
 
-1. 初始化
-```sh
-将代码作为js执行即可
-```
+1. 打开任意页面
+
+
 
 
 ## 功能定制
